@@ -74,7 +74,7 @@ type UserWithID = User & { id: ID };
 
 ---
 
-## The Power of `keyof` in TypeScript
+# The Power of `keyof` in TypeScript
 
 The `keyof` operator allows you to create a union of string literals based on the keys of an object type. It plays a crucial role in building type-safe utilities and generic components.
 
