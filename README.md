@@ -108,6 +108,3 @@ const name = getValue(user, "name"); //  Works fine
 * Boosts IDE support like autocompletion and hints
 * Helps write reusable, generic code
 
----
-
-By understanding these distinctions and tools, you can write more precise and scalable TypeScript code, whether you're working on large applications or small utilities.
